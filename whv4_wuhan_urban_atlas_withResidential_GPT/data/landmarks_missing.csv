@@ -1,0 +1,5 @@
+﻿name_zh,name_en,category,lat,lon,osm_type,osm_id,position_type,verification_status,notes,source_url,candidate_count
+古琴台,Guqin Terrace,历史文化,,,,,,Missing,源文件没有匹配对象,,0
+江汉关,Jianghanguan Customs House,历史文化,,,,,,Missing,源文件没有匹配对象,,0
+光谷广场,Optics Valley Square,城市商业,,,,,,Needs review,仅找到同名地铁站等对象，不能作为目标地标坐标,,7
+金色港湾,,城市商业,,,,,,Missing,源文件没有匹配对象,,0
